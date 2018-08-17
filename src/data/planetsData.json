@@ -1,0 +1,339 @@
+{
+	"data": {
+		"planets": [
+			{
+				"id": "5b76f06df0175c16e5c879d2",
+				"name": "CILLUM",
+				"age": 62050040,
+				"biome": "forest",
+				"isColonized": true,
+				"wealth": "$2,338.42",
+				"about": "Et amet enim ea consectetur excepteur non proident eiusmod minim aliqua ullamco fugiat. Et in dolore pariatur ex sunt laborum ullamco. Aliqua ex duis eu incididunt aute duis qui minim mollit do deserunt officia. Id culpa aliqua officia adipisicing commodo pariatur esse occaecat. Nisi magna sunt culpa excepteur eiusmod dolore commodo nulla ut.",
+				"discovered": "Tuesday, July 3, 2018 4:53 PM",
+				"range": [
+					0,
+					1,
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9
+				],
+				"luxuries": [
+					{
+						"id": 0,
+						"name": "LOREM"
+					},
+					{
+						"id": 1,
+						"name": "ID"
+					},
+					{
+						"id": 2,
+						"name": "NOSTRUD"
+					}
+				],
+				"resourceProduction": "adamantium"
+			},
+			{
+				"id": "5b76f06d37b0f3f49fc51c6a",
+				"name": "ADIPISICING",
+				"age": 5698332,
+				"biome": "arid",
+				"isColonized": true,
+				"wealth": "$3,657.84",
+				"about": "Cillum elit deserunt reprehenderit laborum. Occaecat sit dolore labore ex id quis enim nisi. Aliqua adipisicing elit deserunt proident adipisicing nisi velit do aliqua sunt do magna mollit est. Cillum incididunt velit nulla ad. Do exercitation ad officia sint culpa esse cillum in labore Lorem dolor et occaecat tempor. Duis ipsum amet consectetur cillum dolor.",
+				"discovered": "Friday, October 30, 2015 12:10 PM",
+				"range": [
+					0,
+					1,
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9
+				],
+				"luxuries": [
+					{
+						"id": 0,
+						"name": "CILLUM"
+					},
+					{
+						"id": 1,
+						"name": "DESERUNT"
+					},
+					{
+						"id": 2,
+						"name": "ENIM"
+					}
+				],
+				"resourceProduction": "adamantium"
+			},
+			{
+				"id": "5b76f06d5c5070cc5ac1265d",
+				"name": "CILLUM",
+				"age": 91996772,
+				"biome": "dessert",
+				"isColonized": true,
+				"wealth": "$3,804.16",
+				"about": "Ex laborum ullamco sunt do nulla sunt reprehenderit tempor non proident culpa. Sit magna dolor reprehenderit laborum ipsum duis. Do cillum mollit est id qui sit tempor quis. Non enim magna eu aliqua do adipisicing ex laboris est ullamco magna est. Duis exercitation laboris ex fugiat dolor est minim ullamco. Laborum est sint laboris nisi aliquip reprehenderit ut nisi.",
+				"discovered": "Monday, July 11, 2016 6:51 AM",
+				"range": [
+					0,
+					1,
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9
+				],
+				"luxuries": [
+					{
+						"id": 0,
+						"name": "IN"
+					},
+					{
+						"id": 1,
+						"name": "IPSUM"
+					},
+					{
+						"id": 2,
+						"name": "LABORIS"
+					}
+				],
+				"resourceProduction": "titanium"
+			},
+			{
+				"id": "5b76f06da6aca17d0c0370ad",
+				"name": "ULLAMCO",
+				"age": 45554621,
+				"biome": "forest",
+				"isColonized": false,
+				"wealth": "$2,740.26",
+				"about": "Lorem ullamco non in quis esse cupidatat cupidatat nulla laborum. Proident duis ad tempor nisi in irure. Laboris ut enim proident non Lorem eiusmod aliquip. Ad qui ea laboris consectetur eiusmod in do Lorem voluptate et. Est excepteur qui cupidatat est ullamco sunt laborum anim reprehenderit labore sunt.",
+				"discovered": "Thursday, June 11, 2015 1:40 AM",
+				"range": [
+					0,
+					1,
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9
+				],
+				"luxuries": [
+					{
+						"id": 0,
+						"name": "ADIPISICING"
+					},
+					{
+						"id": 1,
+						"name": "VELIT"
+					},
+					{
+						"id": 2,
+						"name": "SIT"
+					}
+				],
+				"resourceProduction": "titanium"
+			},
+			{
+				"id": "5b76f06d01a3141f469701f9",
+				"name": "EXERCITATION",
+				"age": 8688638,
+				"biome": "arid",
+				"isColonized": false,
+				"wealth": "$2,343.58",
+				"about": "Veniam cupidatat in duis officia non est ut aute duis esse culpa. Officia voluptate magna in adipisicing ex magna culpa ea est consequat do. Commodo labore laboris officia cillum ad voluptate enim. Consectetur velit reprehenderit adipisicing voluptate labore laboris eiusmod officia magna Lorem est. Est consequat culpa laborum laboris dolor non quis Lorem qui eiusmod laborum reprehenderit sint. Deserunt deserunt dolor consectetur dolore id. Voluptate anim deserunt nisi proident quis elit exercitation amet ut.",
+				"discovered": "Thursday, October 6, 2016 5:10 PM",
+				"range": [
+					0,
+					1,
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9
+				],
+				"luxuries": [
+					{
+						"id": 0,
+						"name": "MINIM"
+					},
+					{
+						"id": 1,
+						"name": "SUNT"
+					},
+					{
+						"id": 2,
+						"name": "CILLUM"
+					}
+				],
+				"resourceProduction": "titanium"
+			},
+			{
+				"id": "5b76f06d8ba02943213fcc7b",
+				"name": "PROIDENT",
+				"age": 84290011,
+				"biome": "dessert",
+				"isColonized": false,
+				"wealth": "$3,801.94",
+				"about": "Cillum mollit ex exercitation occaecat fugiat veniam ex labore ex anim ex veniam qui velit. Cupidatat in esse velit sit quis cillum. Ut do nulla sint dolor aliquip non tempor amet pariatur duis incididunt mollit. Quis irure ex esse ipsum minim mollit cillum esse. Ipsum laboris ut id sit mollit aliquip.",
+				"discovered": "Saturday, November 12, 2016 7:11 AM",
+				"range": [
+					0,
+					1,
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9
+				],
+				"luxuries": [
+					{
+						"id": 0,
+						"name": "EU"
+					},
+					{
+						"id": 1,
+						"name": "AD"
+					},
+					{
+						"id": 2,
+						"name": "EU"
+					}
+				],
+				"resourceProduction": "titanium"
+			},
+			{
+				"id": "5b76f06de6c7e2d5a30f2270",
+				"name": "LOREM",
+				"age": 16396739,
+				"biome": "arid",
+				"isColonized": false,
+				"wealth": "$2,620.95",
+				"about": "Do excepteur consectetur voluptate cupidatat anim. Exercitation reprehenderit aliquip ipsum aliquip voluptate culpa veniam mollit fugiat aliquip. Consequat culpa officia occaecat dolor et cillum esse. Velit amet elit eu commodo amet nulla commodo esse minim enim qui aliqua quis. Eu deserunt incididunt duis est velit veniam est enim minim enim. Exercitation sint aliquip aliqua cillum dolore consequat culpa minim aliqua. Sint dolore reprehenderit amet quis do consectetur laboris voluptate.",
+				"discovered": "Wednesday, April 5, 2017 8:07 AM",
+				"range": [
+					0,
+					1,
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9
+				],
+				"luxuries": [
+					{
+						"id": 0,
+						"name": "COMMODO"
+					},
+					{
+						"id": 1,
+						"name": "EA"
+					},
+					{
+						"id": 2,
+						"name": "ADIPISICING"
+					}
+				],
+				"resourceProduction": "adamantium"
+			},
+			{
+				"id": "5b76f06dd101b4179382b148",
+				"name": "ULLAMCO",
+				"age": 34841549,
+				"biome": "magma",
+				"isColonized": false,
+				"wealth": "$3,080.28",
+				"about": "Est enim et culpa et pariatur proident sunt dolore et laboris ad do cillum. Aliquip qui Lorem tempor ad non irure adipisicing aliquip incididunt cillum. Excepteur amet ipsum ea adipisicing quis commodo sit irure pariatur anim dolor. Incididunt mollit nostrud eiusmod ullamco nulla labore Lorem.",
+				"discovered": "Thursday, July 19, 2018 2:36 AM",
+				"range": [
+					0,
+					1,
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9
+				],
+				"luxuries": [
+					{
+						"id": 0,
+						"name": "MAGNA"
+					},
+					{
+						"id": 1,
+						"name": "NOSTRUD"
+					},
+					{
+						"id": 2,
+						"name": "LABORE"
+					}
+				],
+				"resourceProduction": "adamantium"
+			},
+			{
+				"id": "5b76f06d8d1bfc2e8ba17ccf",
+				"name": "MAGNA",
+				"age": 47469369,
+				"biome": "dessert",
+				"isColonized": true,
+				"wealth": "$2,189.64",
+				"about": "Minim sunt aute incididunt voluptate ex cillum do labore eu enim veniam. Non magna aute reprehenderit in sit nisi proident sint irure eiusmod consectetur. Ex incididunt velit labore veniam. Voluptate eu id aliqua occaecat enim nisi exercitation labore. Sunt dolore id minim Lorem. Anim laboris aute tempor dolor ex veniam pariatur ex dolore.",
+				"discovered": "Thursday, August 24, 2017 4:30 PM",
+				"range": [
+					0,
+					1,
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8,
+					9
+				],
+				"luxuries": [
+					{
+						"id": 0,
+						"name": "DOLOR"
+					},
+					{
+						"id": 1,
+						"name": "NISI"
+					},
+					{
+						"id": 2,
+						"name": "CILLUM"
+					}
+				],
+				"resourceProduction": "titanium"
+			}
+		]
+	}
+}
